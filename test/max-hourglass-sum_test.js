@@ -6,7 +6,8 @@ describe('maxHourglassSum should', function() {
 
     const tests = [
       { input: [[1,1,1]], result: [3] },
-      { input: [[0,1,0]], result: [1] },
+      { input: [[1,1,1,0]], result: [3,2] },
+      { input: [[1,1,1,0,0,0]], result: [3,2, 1, 0] },
     ];
 
     tests.forEach(function(test) {
