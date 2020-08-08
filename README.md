@@ -40,7 +40,7 @@ Snippet for creating new test files with parameterized tests (to reduce test dup
 
 ```
 const expect = require('chai').expect;
-const fileName = require('../filename.js');
+const fileName = require('../filename');
 
 describe('SomeThing should', function() {
   it('do something.', function() {
