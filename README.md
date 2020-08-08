@@ -19,7 +19,7 @@ I'm solving these data structure problems because many tech interview processes 
 
 ## Parameterized Test Stub
 
-Whenever you create a new test file, use this test stub to quickly write new parameterized tests.
+Snippet for creating new test files with parameterized tests (to reduce test duplication).
 
 - Require only the [Chai assertions](https://www.chaijs.com/guide/styles/) you need.
 - Require the production code files you need.
