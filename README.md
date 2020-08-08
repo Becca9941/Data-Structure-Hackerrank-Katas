@@ -11,9 +11,7 @@ I'm solving these data structure problems because many tech interview processes 
 ### Arrays
 
 #### Reverse an Array
-- [Problem Statement](https://www.hackerrank.com/challenges/arrays-ds/problem)
-- [Test File](test/reverse-array_test.js)
-- [Production File](arrays/reverse-array.js)
+[Problem Statement](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Test File](test/reverse-array_test.js) | [Production File](arrays/reverse-array.js)
 
 
 ## Parameterized Test Stub
