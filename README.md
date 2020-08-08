@@ -9,6 +9,7 @@ I'm solving these data structure problems because many tech interview processes 
 ## Solutions
 🟢 Easy | 🟠 Medium | 🔴 Hard
 
+- [ ] ⚪ **New** [Problem]() | [Tests]() | [Code]()
 
 ### Arrays
 
@@ -24,7 +25,6 @@ I'm solving these data structure problems because many tech interview processes 
 
 - [ ] 🔴 **Array Manipulation** [Problem](https://www.hackerrank.com/challenges/crush) | [Tests]() | [Code]()
 
-//Comment: [ ] **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
 
 
 ## Parameterized Test Stub
