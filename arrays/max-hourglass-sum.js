@@ -6,14 +6,10 @@ function maxHourglassSum(arr) {
       let middle = arr[row+1][col+1];
       let bottom = arr[row+2][col] + arr[row+2][col+1] + arr[row+2][col+2];
 
-      hourglassSums.push(sum([top + middle + bottom]));
+      hourglassSums.push(top + middle + bottom);
     }
   }
   return Math.max(...hourglassSums);
-}
-
-function sum(arr) {
-  return arr.reduce((a, b) => a + b, 0);
 }
 
 module.exports = maxHourglassSum;
