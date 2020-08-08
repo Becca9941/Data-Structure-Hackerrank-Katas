@@ -10,11 +10,11 @@ I'm solving these data structure problems because many tech interview processes 
 
 ### Arrays
 
-- **Reverse an Array:** [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Tests](test/reverse-array_test.js) | [Code](arrays/reverse-array.js)
+[x] **Reverse an Array:** [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Tests](test/reverse-array_test.js) | [Code](arrays/reverse-array.js)
 
-- **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
+[ ] **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
 
-- **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
+[//]: # [ ] **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
 
 
 ## Parameterized Test Stub
