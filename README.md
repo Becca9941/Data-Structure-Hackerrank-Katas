@@ -7,12 +7,22 @@ Hackerrank doesn't let us test-drive our solutions, so I created this project to
 I'm solving these data structure problems because many tech interview processes require us to be able to solve algorithms related to data structures.
 
 ## Solutions
+🟢 Easy | 🟠 Medium | 🔴 Hard
+
 
 ### Arrays
 
-- [x] **Reverse an Array:** [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Tests](test/reverse-array_test.js) | [Code](arrays/reverse-array.js)
+- [x] 🟢 **Reverse an Array:** [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Tests](test/reverse-array_test.js) | [Code](arrays/reverse-array.js)
 
-- [ ] **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
+- [ ] 🟢 **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
+
+- [ ] 🟢 **Dynamic Array** [Problem](https://www.hackerrank.com/challenges/dynamic-array) | [Tests]() | [Code]()
+
+- [ ] 🟢 **Left Rotation** [Problem](https://www.hackerrank.com/challenges/array-left-rotation) | [Tests]() | [Code]()
+
+- [ ] 🟠 **Sparse Arrays** [Problem](https://www.hackerrank.com/challenges/sparse-arrays) | [Tests]() | [Code]()
+
+- [ ] 🔴 **Array Manipulation** [Problem](https://www.hackerrank.com/challenges/crush) | [Tests]() | [Code]()
 
 //Comment: [ ] **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
 
