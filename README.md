@@ -1,10 +1,20 @@
-# Data Structure Problems (test-driven)
+# TDD Data Structure Problems
 
 On [Hackerrank](https://www.hackerrank.com), there is a [Data Structure](https://www.hackerrank.com/domains/data-structures) section which contains programming problems (katas) to solve across several data structure categories.
 
 Hackerrank doesn't let us test-drive our solutions, so I created this project to allow me to test-drive them using Mocha and Chai, in JavaScript.
 
 I'm solving these data structure problems because many tech interview processes require us to be able to solve algorithms related to data structures.
+
+## Problems Solved
+
+### Arrays
+
+#### Reverse an Array
+- [Problem Statement](https://www.hackerrank.com/challenges/arrays-ds/problem)
+- [Test File](test/reverse-array_test.js)
+- [Production File](arrays/reverse-array.js)
+
 
 ## Parameterized Test Stub
 
