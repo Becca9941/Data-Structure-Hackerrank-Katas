@@ -14,7 +14,7 @@ I'm solving these data structure problems because many tech interview processes 
 
 [ ] **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
 
-[//]: # [ ] **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
+//Comment: [ ] **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
 
 
 ## Parameterized Test Stub
