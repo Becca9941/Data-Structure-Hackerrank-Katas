@@ -15,7 +15,7 @@ I'm solving these data structure problems because many tech interview processes 
 
 - [x] 🟢 **Reverse an Array:** [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Tests](test/reverse-array_test.js) | [Code](arrays/reverse-array.js)
 
-- [ ] 🟢 **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
+- [x] 🟢 **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests](test/max-hourglass-sum_test.js) | [Code](arrays/max-hourglass-sum.js)
 
 - [ ] 🟢 **Dynamic Array** [Problem](https://www.hackerrank.com/challenges/dynamic-array) | [Tests]() | [Code]()
 
