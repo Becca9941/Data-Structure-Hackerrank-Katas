@@ -1,5 +1,11 @@
 # Data Structure Problems (test-driven)
 
+On [Hackerrank](https://www.hackerrank.com), there is a [Data Structure](https://www.hackerrank.com/domains/data-structures) section which contains programming problems (katas) to solve across several data structure categories.
+
+Hackerrank doesn't let us test-drive our solutions, so I created this project to allow me to test-drive them using Mocha and Chai, in JavaScript.
+
+I'm solving these data structure problems because many tech interview processes require us to be able to solve algorithms related to data structures.
+
 ## Parameterized Test Stub
 
 Whenever you create a new test file, use this test stub to quickly write new parameterized tests.
