@@ -1,14 +1,15 @@
 function maxHourglassSum(arr) {
-  const hourglassCapSums = [];
-  const row = arr[0];
+  let hourglassSums = [];
+  for(let row = 0; row < arr.length-2; row++) {
+    for(let col = 0; col < arr[row].length-2; col++) {
+      let top = arr[row][col] + arr[row][col+1] + arr[row][col+2];
+      let middle = arr[row][col+1];
+      let bottom = arr[row+2][col] + arr[row+2][col+1] + arr[row+2][col+2];
 
-  for(let i = 0; i < row.length-2; i++) {
-    let hourglassCap = [row[i], row[i+1], row[i+2]];
-    hourglassCapSums.push(sum(hourglassCap));
+      hourglassSums.push(sum([top + middle + bottom]));
+    }
   }
-
-
-  return hourglassCapSums;
+  return Math.max(hourglassSums);
 }
 
 function sum(arr) {
