@@ -6,7 +6,7 @@ Hackerrank doesn't let us test-drive our solutions, so I created this project to
 
 I'm solving these data structure problems because many tech interview processes require us to be able to solve algorithms related to data structures.
 
-## Problems Solved
+## Solutions
 
 ### Arrays
 
@@ -14,7 +14,7 @@ I'm solving these data structure problems because many tech interview processes 
 
 - **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests]() | [Code]()
 
-- **Problem Name (for adding new problems)** [Problem]() | [Tests]() | [Code]()
+- **Problem Name (copy to add new solution)** [Problem]() | [Tests]() | [Code]()
 
 
 ## Parameterized Test Stub
