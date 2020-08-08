@@ -1,5 +1,9 @@
 function reverseArray(a) {
-  return [1];
+  let reversed = [];
+  a.forEach(function(x) {
+    reversed.unshift(x);
+  });
+  return reversed;
 }
 
 module.exports = reverseArray;
