@@ -7,6 +7,8 @@ describe('LeftRotation should', function() {
     const tests = [
       { input: [1,2], result: [2,1] },
       { input: [1,2,3], result: [2,3,1] },
+      { input: [1,2,3,4], result: [2,3,4,1] },
+      { input: [1,2,3,4,5], result: [2,3,4,5,1] },
     ];
 
     tests.forEach(function(test) {
