@@ -12,8 +12,20 @@ describe('LeftRotation should', function() {
     ];
 
     tests.forEach(function(test) {
-      expect(leftRotation(test.input)).to.eql(test.result);
+      expect(leftRotation(test.input,1)).to.eql(test.result);
     });
 
+  });
+
+  it('rotate array elements 2 spaces to the left.', function() {
+
+    const tests = [
+      { input: [1,2], result: [1,2] },
+    ];
+
+    tests.forEach(function(test) {
+      expect(leftRotation(test.input,2)).to.eql(test.result);
+
+    });
   });
 });
