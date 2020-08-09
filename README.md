@@ -17,11 +17,11 @@ I'm solving these data structure problems because many tech interview processes 
 
 - [x] 🟢 **Max Hourglass Sum (2D Array - DS on HR)** [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Tests](test/max-hourglass-sum_test.js) | [Code](arrays/max-hourglass-sum.js)
 
-- [ ] 🟢 **Dynamic Array** [Problem](https://www.hackerrank.com/challenges/dynamic-array) | [Tests]() | [Code]()
-
 - [ ] 🟢 **Left Rotation** [Problem](https://www.hackerrank.com/challenges/array-left-rotation) | [Tests]() | [Code]()
 
-- [ ] 🟠 **Sparse Arrays** [Problem](https://www.hackerrank.com/challenges/sparse-arrays) | [Tests]() | [Code]()
+- [ ] 🟠 **New Year Chaos** [Problem](https://www.hackerrank.com/challenges/new-year-chaos?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Tests]() | [Code]()
+
+- [ ] 🟠 **Minimum Swap** [Problem](https://www.hackerrank.com/challenges/minimum-swaps-2?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Tests]() | [Code]()
 
 - [ ] 🔴 **Array Manipulation** [Problem](https://www.hackerrank.com/challenges/crush) | [Tests]() | [Code]()
 
