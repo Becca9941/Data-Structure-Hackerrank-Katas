@@ -1,6 +1,8 @@
 function leftRotation(a,d) {
-  const first = a.shift();
-  a.push(first);
+  for(let i = 0; i < d; i++) {
+    const first = a.shift();
+    a.push(first);
+  }
   return a;
 }
 
